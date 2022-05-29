@@ -56,3 +56,5 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 ![image](https://user-images.githubusercontent.com/104279687/170845979-5b8c223a-76a7-4078-9155-7b4733e643fd.png)
+
+https://www.db-fiddle.com/f/ia2uggMF1kQMJmzSVhD13n/0
