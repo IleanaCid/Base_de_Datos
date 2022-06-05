@@ -16,6 +16,10 @@ En la BD utilizada en clase realiza las siguientes consultas:
 ![image](https://user-images.githubusercontent.com/104279687/172028771-da9859c4-20c9-4164-baad-7a2dcef6c5ae.png)
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
+* ![image](https://user-images.githubusercontent.com/104279687/172029662-92543e37-e40c-420f-bff2-2dc478f555ea.png)
+
+![image](https://user-images.githubusercontent.com/104279687/172029669-e30336b8-a085-44b9-b274-ff53c102f83f.png)
+
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 * En la tabla peridistas muestra solo los que escriban sobre cine
 * De la tabla revistas muestra las que sean de publicacion quincenal
