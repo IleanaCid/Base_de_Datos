@@ -29,6 +29,8 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 
 * De la tabla revistas muestra las que sean de publicacion quincenal
+* ![image](https://user-images.githubusercontent.com/104279687/173208453-20e05652-e7db-418e-b760-884fc59babc2.png)
+
 * ![image](https://user-images.githubusercontent.com/104279687/173207427-e87e6380-d88b-4747-93e3-98b8aa02bf93.png)
 ![image](https://user-images.githubusercontent.com/104279687/173207433-a61c570e-53fe-4f07-a82c-af5ca746d11a.png)
 
