@@ -33,6 +33,10 @@ En la BD utilizada en clase realiza las siguientes consultas:
 ![image](https://user-images.githubusercontent.com/104279687/173207433-a61c570e-53fe-4f07-a82c-af5ca746d11a.png)
 
 * Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
+
+![image](https://user-images.githubusercontent.com/104279687/173207573-16a96f70-f2be-4b77-9dcc-e270981ac97b.png)
+![image](https://user-images.githubusercontent.com/104279687/173207578-d6cd5e74-d650-4529-9aee-7c32b6768e01.png)
+
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
